@@ -14,6 +14,14 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 
 
+try:
+    from dotenv import load_dotenv
+
+    load_dotenv()
+except Exception:
+    pass
+
+
 app = FastAPI(
     title="E-V-E API",
     description="PostGIS-backed API for E-V-E radar-derived circulation tracks, nowcasts, and ML scores.",
@@ -73,13 +81,19 @@ def project_root_candidates() -> List[Path]:
 
 def radar_frames_dir_candidates() -> List[Path]:
     candidates: List[Path] = []
-    for root in project_root_candidates():
-        # The processing pipeline currently writes rendered radar PNGs here.
-        candidates.append(root / "outputs" / "web" / "radar_frames")
-        # Also support a future renamed output folder without breaking old pipeline outputs.
-        candidates.append(root / "outputs" / "frontend" / "radar_frames")
-    return candidates
 
+    for root in project_root_candidates():
+        # Local/Docker pipeline output path.
+        candidates.append(root / "outputs" / "web" / "radar_frames")
+
+        # Future renamed output folder support.
+        candidates.append(root / "outputs" / "frontend" / "radar_frames")
+
+        # Hosted/Vercel-friendly committed static frame paths.
+        candidates.append(root / "backend" / "static" / "radar_frames")
+        candidates.append(root / "static" / "radar_frames")
+
+    return candidates
 
 def resolve_radar_frame_file(event_id: str, filename: str) -> Optional[Path]:
     """
@@ -107,6 +121,18 @@ def resolve_radar_frame_file(event_id: str, filename: str) -> Optional[Path]:
 
 
 def db_connect():
+    """
+    Connect to PostGIS.
+
+    Local/Docker usage can use individual POSTGRES_* variables.
+    Hosted deployments such as Vercel + Neon/Supabase can use DATABASE_URL
+    or POSTGRES_URL without breaking local behavior.
+    """
+    database_url = os.getenv("DATABASE_URL") or os.getenv("POSTGRES_URL")
+
+    if database_url:
+        return psycopg2.connect(database_url)
+
     return psycopg2.connect(
         dbname=os.getenv("POSTGRES_DB", "eve"),
         user=os.getenv("POSTGRES_USER", "eve_user"),
@@ -114,7 +140,6 @@ def db_connect():
         host=os.getenv("POSTGRES_HOST", "postgis"),
         port=int(os.getenv("POSTGRES_PORT", "5432")),
     )
-
 
 def json_safe(value: Any) -> Any:
     if isinstance(value, (datetime, date)):
@@ -248,7 +273,7 @@ def serve_radar_frame(event_id: str, filename: str):
                 "event_id": event_id,
                 "filename": filename,
                 "checked_paths": checked,
-                "fix": "Make sure ./outputs is mounted into the API container or set PROJECT_ROOT to the project root that contains outputs/web/radar_frames.",
+                "fix": "Make sure ./outputs is mounted into the API container, set PROJECT_ROOT, or place hosted frames under backend/static/radar_frames.",
             },
         )
 

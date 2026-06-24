@@ -1,0 +1,523 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.54373599480003,
+            34.119733214260606
+          ],
+          [
+            -86.30829571226542,
+            34.25894066602684
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_002",
+        "track_quality_rank": 1,
+        "ranked_track_name": "RANK_01_TRK_002",
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:38:05+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T22:53:05+00:00",
+        "start_x_km": 21.348143468349235,
+        "start_y_km": 105.10446563990206,
+        "end_x_km": 43.045890526804286,
+        "end_y_km": 120.6010391705187,
+        "speed_kt": 57.59,
+        "bearing_deg": 54.47,
+        "source_detection_id": "DET_0038",
+        "source_radar_file": "KBMX20110427_223805_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.54373599480003,
+            34.119733214260606
+          ],
+          [
+            -86.07285542973081,
+            34.39814811779306
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_002",
+        "track_quality_rank": 1,
+        "ranked_track_name": "RANK_01_TRK_002",
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:38:05+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T23:08:05+00:00",
+        "start_x_km": 21.348143468349235,
+        "start_y_km": 105.10446563990206,
+        "end_x_km": 64.74363758525934,
+        "end_y_km": 136.09761270113535,
+        "speed_kt": 57.59,
+        "bearing_deg": 54.47,
+        "source_detection_id": "DET_0038",
+        "source_radar_file": "KBMX20110427_223805_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2884278249162,
+            33.37294371049049
+          ],
+          [
+            -87.1149284310801,
+            33.521154887819485
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_004",
+        "track_quality_rank": 2,
+        "ranked_track_name": "RANK_02_TRK_004",
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:33:30+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T22:48:30+00:00",
+        "start_x_km": -47.51031341825404,
+        "start_y_km": 20.298924831392213,
+        "end_x_km": -31.381082584390683,
+        "end_y_km": 36.79779309165587,
+        "speed_kt": 49.83,
+        "bearing_deg": 44.35,
+        "source_detection_id": "DET_0035",
+        "source_radar_file": "KBMX20110427_223330_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.2884278249162,
+            33.37294371049049
+          ],
+          [
+            -86.94142903724399,
+            33.66936606514848
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_004",
+        "track_quality_rank": 2,
+        "ranked_track_name": "RANK_02_TRK_004",
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:33:30+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T23:03:30+00:00",
+        "start_x_km": -47.51031341825404,
+        "start_y_km": 20.298924831392213,
+        "end_x_km": -15.251851750527322,
+        "end_y_km": 53.296661351919525,
+        "speed_kt": 49.83,
+        "bearing_deg": 44.35,
+        "source_detection_id": "DET_0035",
+        "source_radar_file": "KBMX20110427_223330_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.47719798463417,
+            33.971023220563666
+          ],
+          [
+            -86.32431518829081,
+            34.13207896704442
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_012",
+        "track_quality_rank": 3,
+        "ranked_track_name": "RANK_03_TRK_012",
+        "track_quality_score": 97.64,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T23:09:25+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T23:24:25+00:00",
+        "start_x_km": 26.48113217822711,
+        "start_y_km": 88.62339119070737,
+        "end_x_km": 40.595261658987496,
+        "end_y_km": 106.55211688894535,
+        "speed_kt": 49.28,
+        "bearing_deg": 38.21,
+        "source_detection_id": "DET_0055",
+        "source_radar_file": "KBMX20110427_230925_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.47719798463417,
+            33.971023220563666
+          ],
+          [
+            -86.17143239194745,
+            34.293134713525184
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_012",
+        "track_quality_rank": 3,
+        "ranked_track_name": "RANK_03_TRK_012",
+        "track_quality_score": 97.64,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T23:09:25+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T23:39:25+00:00",
+        "start_x_km": 26.48113217822711,
+        "start_y_km": 88.62339119070737,
+        "end_x_km": 54.70939113974789,
+        "end_y_km": 124.48084258718333,
+        "speed_kt": 49.28,
+        "bearing_deg": 38.21,
+        "source_detection_id": "DET_0055",
+        "source_radar_file": "KBMX20110427_230925_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.50085099949091,
+            32.87560005622858
+          ],
+          [
+            -87.35685733425153,
+            32.94909865448086
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_013",
+        "track_quality_rank": 4,
+        "ranked_track_name": "RANK_04_TRK_013",
+        "track_quality_score": 94.53,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T23:14:01+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T23:29:01+00:00",
+        "start_x_km": -68.05546375144925,
+        "start_y_km": -33.23550784740222,
+        "end_x_km": -54.5931756120753,
+        "end_y_km": -25.053643889958085,
+        "speed_kt": 34.03,
+        "bearing_deg": 58.71,
+        "source_detection_id": "DET_0056",
+        "source_radar_file": "KBMX20110427_231401_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.50085099949091,
+            32.87560005622858
+          ],
+          [
+            -87.21286366901215,
+            33.02259725273314
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_013",
+        "track_quality_rank": 4,
+        "ranked_track_name": "RANK_04_TRK_013",
+        "track_quality_score": 94.53,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T23:14:01+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T23:44:01+00:00",
+        "start_x_km": -68.05546375144925,
+        "start_y_km": -33.23550784740222,
+        "end_x_km": -41.13088747270134,
+        "end_y_km": -16.871779932513952,
+        "speed_kt": 34.03,
+        "bearing_deg": 58.71,
+        "source_detection_id": "DET_0056",
+        "source_radar_file": "KBMX20110427_231401_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.26575764171511,
+            34.02622850477
+          ],
+          [
+            -86.10032529081268,
+            34.21235418834487
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_005",
+        "track_quality_rank": 5,
+        "ranked_track_name": "RANK_05_TRK_005",
+        "track_quality_score": 87.93,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:24:20+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T22:39:20+00:00",
+        "start_x_km": 47.47870101739735,
+        "start_y_km": 93.40547318038703,
+        "end_x_km": 62.74148256278764,
+        "end_y_km": 114.12498427594089,
+        "speed_kt": 55.58,
+        "bearing_deg": 36.38,
+        "source_detection_id": "DET_0031",
+        "source_radar_file": "KBMX20110427_222420_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.26575764171511,
+            34.02622850477
+          ],
+          [
+            -85.93489293991026,
+            34.39847987191973
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_005",
+        "track_quality_rank": 5,
+        "ranked_track_name": "RANK_05_TRK_005",
+        "track_quality_score": 87.93,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:24:20+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T22:54:20+00:00",
+        "start_x_km": 47.47870101739735,
+        "start_y_km": 93.40547318038703,
+        "end_x_km": 78.00426410817792,
+        "end_y_km": 134.84449537149476,
+        "speed_kt": 55.58,
+        "bearing_deg": 36.38,
+        "source_detection_id": "DET_0031",
+        "source_radar_file": "KBMX20110427_222420_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.74444386636522,
+            33.68894793768666
+          ],
+          [
+            -86.79453860408906,
+            33.665665359166965
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_008",
+        "track_quality_rank": 6,
+        "ranked_track_name": "RANK_06_TRK_008",
+        "track_quality_score": 84.73,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:42:40+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T22:57:40+00:00",
+        "start_x_km": 3.667901820382849,
+        "start_y_km": 58.11409413523887,
+        "end_x_km": -0.9721255335285508,
+        "end_y_km": 55.5222774944258,
+        "speed_kt": 11.48,
+        "bearing_deg": 240.81,
+        "source_detection_id": "DET_0041",
+        "source_radar_file": "KBMX20110427_224240_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.74444386636522,
+            33.68894793768666
+          ],
+          [
+            -86.8446333418129,
+            33.64238278064726
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_008",
+        "track_quality_rank": 6,
+        "ranked_track_name": "RANK_06_TRK_008",
+        "track_quality_score": 84.73,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:42:40+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T23:12:40+00:00",
+        "start_x_km": 3.667901820382849,
+        "start_y_km": 58.11409413523887,
+        "end_x_km": -5.612152887439951,
+        "end_y_km": 52.93046085361273,
+        "speed_kt": 11.48,
+        "bearing_deg": 240.81,
+        "source_detection_id": "DET_0041",
+        "source_radar_file": "KBMX20110427_224240_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.45463394032204,
+            33.213782997960344
+          ],
+          [
+            -87.47095892501429,
+            32.93607299962724
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_001",
+        "track_quality_rank": 7,
+        "ranked_track_name": "RANK_07_TRK_001",
+        "track_quality_score": 65.57,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T21:43:03+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T21:58:03+00:00",
+        "start_x_km": -63.58058701663207,
+        "start_y_km": 5.283149036959046,
+        "end_x_km": -65.10099712043565,
+        "end_y_km": -25.631527977482016,
+        "speed_kt": 66.85,
+        "bearing_deg": 182.82,
+        "source_detection_id": "DET_0006",
+        "source_radar_file": "KBMX20110427_214303_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.45463394032204,
+            33.213782997960344
+          ],
+          [
+            -87.48728390970653,
+            32.658363001294134
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_001",
+        "track_quality_rank": 7,
+        "ranked_track_name": "RANK_07_TRK_001",
+        "track_quality_score": 65.57,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T21:43:03+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T22:13:03+00:00",
+        "start_x_km": -63.58058701663207,
+        "start_y_km": 5.283149036959046,
+        "end_x_km": -66.62140722423922,
+        "end_y_km": -56.54620499192308,
+        "speed_kt": 66.85,
+        "bearing_deg": 182.82,
+        "source_detection_id": "DET_0006",
+        "source_radar_file": "KBMX20110427_214303_V03.gz"
+      }
+    }
+  ]
+}

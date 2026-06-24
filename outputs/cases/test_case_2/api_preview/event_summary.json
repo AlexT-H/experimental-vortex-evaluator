@@ -1,0 +1,33 @@
+{
+  "event_id": "test_case_2",
+  "event_name": "KBMX 2011-04-27 Test Case",
+  "radar_site": "KBMX",
+  "date_folder": "2011-04-27",
+  "description": "E-V-E KBMX historic tornadic supercell case.",
+  "counts": {
+    "radar_scans": 42,
+    "circulation_detections": 56,
+    "signature_tracks": 7,
+    "nowcast_paths": 14,
+    "ml_track_predictions": 17
+  },
+  "best_track": {
+    "track_id": "test_case_2__TRK_004",
+    "ranked_track_name": "RANK_02_TRK_004",
+    "ml_rank": 1,
+    "ml_score": 0.9967,
+    "ml_label": "high",
+    "track_quality_rank": 2,
+    "track_quality_score": 100.0,
+    "track_quality_label": "high"
+  },
+  "api_preview_files": {
+    "tracks_with_scores": "tracks_with_scores.geojson",
+    "nowcasts_with_scores": "nowcasts_with_scores.geojson",
+    "best_track": "best_track.geojson",
+    "best_track_nowcasts": "best_track_nowcasts.geojson",
+    "high_priority_tracks": "high_priority_tracks.geojson",
+    "high_priority_nowcasts": "high_priority_nowcasts.geojson",
+    "detections": "detections.geojson"
+  }
+}

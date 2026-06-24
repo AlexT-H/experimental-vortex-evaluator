@@ -1,0 +1,406 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.91035508,
+            33.059769001
+          ],
+          [
+            -87.858013651,
+            33.090204432
+          ],
+          [
+            -87.761844106,
+            33.0675077
+          ],
+          [
+            -87.69908661,
+            33.132668591
+          ],
+          [
+            -87.698689913,
+            33.146049522
+          ],
+          [
+            -87.639178512,
+            33.163009711
+          ],
+          [
+            -87.558299415,
+            33.182640699
+          ],
+          [
+            -87.465354044,
+            33.192489371
+          ],
+          [
+            -87.402758933,
+            33.227166882
+          ],
+          [
+            -87.352232941,
+            33.269981072
+          ],
+          [
+            -87.353951423,
+            33.287333751
+          ],
+          [
+            -87.288427825,
+            33.37294371
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_004",
+        "ranked_track_name": "RANK_02_TRK_004",
+        "track_quality_rank": 2,
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "detection_count": 12,
+        "start_time_utc": "2011-04-27T21:43:03+00:00",
+        "end_time_utc": "2011-04-27T22:33:30+00:00",
+        "duration_min": 50.45,
+        "speed_kt": 49.83,
+        "bearing_deg": 44.35,
+        "mean_confidence_score": 100.0,
+        "max_confidence_score": 100.0,
+        "mean_delta_v_kt": 107.57,
+        "max_delta_v_kt": 114.03,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.462260982,
+            33.64072565
+          ],
+          [
+            -87.435121498,
+            33.630661337
+          ],
+          [
+            -87.331965544,
+            33.644068778
+          ],
+          [
+            -87.279265249,
+            33.66942167
+          ],
+          [
+            -87.221643881,
+            33.705487346
+          ],
+          [
+            -87.206027652,
+            33.771991408
+          ],
+          [
+            -87.108316525,
+            33.791372396
+          ],
+          [
+            -87.052023272,
+            33.844061934
+          ],
+          [
+            -86.999815326,
+            33.891617768
+          ],
+          [
+            -86.901439789,
+            33.921449729
+          ],
+          [
+            -86.863641195,
+            33.933395364
+          ],
+          [
+            -86.745478341,
+            33.971245299
+          ],
+          [
+            -86.694513435,
+            34.034250669
+          ],
+          [
+            -86.620423825,
+            34.076999988
+          ],
+          [
+            -86.543735995,
+            34.119733214
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_002",
+        "ranked_track_name": "RANK_01_TRK_002",
+        "track_quality_rank": 1,
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "detection_count": 15,
+        "start_time_utc": "2011-04-27T21:33:53+00:00",
+        "end_time_utc": "2011-04-27T22:38:05+00:00",
+        "duration_min": 64.2,
+        "speed_kt": 57.59,
+        "bearing_deg": 54.47,
+        "mean_confidence_score": 99.68,
+        "max_confidence_score": 100.0,
+        "mean_delta_v_kt": 96.13,
+        "max_delta_v_kt": 112.15,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.521299716,
+            33.72544129
+          ],
+          [
+            -86.325976387,
+            33.921155125
+          ],
+          [
+            -86.265757642,
+            34.026228505
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_005",
+        "ranked_track_name": "RANK_05_TRK_005",
+        "track_quality_rank": 5,
+        "track_quality_score": 87.93,
+        "track_quality_label": "high",
+        "detection_count": 3,
+        "start_time_utc": "2011-04-27T22:01:24+00:00",
+        "end_time_utc": "2011-04-27T22:24:20+00:00",
+        "duration_min": 22.93,
+        "speed_kt": 55.58,
+        "bearing_deg": 36.38,
+        "mean_confidence_score": 90.91,
+        "max_confidence_score": 92.94,
+        "mean_delta_v_kt": 112.45,
+        "max_delta_v_kt": 114.36,
+        "ml_rank": 3,
+        "ml_score": 0.9667,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.618431592,
+            33.782495856
+          ],
+          [
+            -86.646651843,
+            33.820892287
+          ],
+          [
+            -86.599874042,
+            33.864330868
+          ],
+          [
+            -86.575725939,
+            33.891365818
+          ],
+          [
+            -86.477197985,
+            33.971023221
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_012",
+        "ranked_track_name": "RANK_03_TRK_012",
+        "track_quality_rank": 3,
+        "track_quality_score": 97.64,
+        "track_quality_label": "high",
+        "detection_count": 5,
+        "start_time_utc": "2011-04-27T22:42:40+00:00",
+        "end_time_utc": "2011-04-27T23:09:25+00:00",
+        "duration_min": 26.75,
+        "speed_kt": 49.28,
+        "bearing_deg": 38.21,
+        "mean_confidence_score": 94.64,
+        "max_confidence_score": 97.51,
+        "mean_delta_v_kt": 115.02,
+        "max_delta_v_kt": 115.93,
+        "ml_rank": 4,
+        "ml_score": 0.9533,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.713451229,
+            32.754246094
+          ],
+          [
+            -87.66303933,
+            32.790453387
+          ],
+          [
+            -87.565401671,
+            32.847083817
+          ],
+          [
+            -87.507122201,
+            32.875597407
+          ],
+          [
+            -87.500850999,
+            32.875600056
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_013",
+        "ranked_track_name": "RANK_04_TRK_013",
+        "track_quality_rank": 4,
+        "track_quality_score": 94.53,
+        "track_quality_label": "high",
+        "detection_count": 5,
+        "start_time_utc": "2011-04-27T22:55:39+00:00",
+        "end_time_utc": "2011-04-27T23:14:01+00:00",
+        "duration_min": 18.37,
+        "speed_kt": 34.03,
+        "bearing_deg": 58.71,
+        "mean_confidence_score": 100.0,
+        "max_confidence_score": 100.0,
+        "mean_delta_v_kt": 109.39,
+        "max_delta_v_kt": 113.35,
+        "ml_rank": 5,
+        "ml_score": 0.4533,
+        "ml_label": "medium",
+        "tornado_associated": 0,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.709776007,
+            33.679233192
+          ],
+          [
+            -86.6538235,
+            33.736166685
+          ],
+          [
+            -86.688618131,
+            33.723667855
+          ],
+          [
+            -86.744443866,
+            33.688947938
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_008",
+        "ranked_track_name": "RANK_06_TRK_008",
+        "track_quality_rank": 6,
+        "track_quality_score": 84.73,
+        "track_quality_label": "high",
+        "detection_count": 4,
+        "start_time_utc": "2011-04-27T22:19:45+00:00",
+        "end_time_utc": "2011-04-27T22:42:40+00:00",
+        "duration_min": 22.92,
+        "speed_kt": 11.48,
+        "bearing_deg": 240.81,
+        "mean_confidence_score": 96.95,
+        "max_confidence_score": 100.0,
+        "mean_delta_v_kt": 112.79,
+        "max_delta_v_kt": 115.23,
+        "ml_rank": 6,
+        "ml_score": 0.42,
+        "ml_label": "medium",
+        "tornado_associated": 0,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.431118076,
+            33.390210095
+          ],
+          [
+            -87.45463394,
+            33.213782998
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_001",
+        "ranked_track_name": "RANK_07_TRK_001",
+        "track_quality_rank": 7,
+        "track_quality_score": 65.57,
+        "track_quality_label": "high",
+        "detection_count": 2,
+        "start_time_utc": "2011-04-27T21:33:53+00:00",
+        "end_time_utc": "2011-04-27T21:43:03+00:00",
+        "duration_min": 9.17,
+        "speed_kt": 66.85,
+        "bearing_deg": 182.82,
+        "mean_confidence_score": 100.0,
+        "max_confidence_score": 100.0,
+        "mean_delta_v_kt": 102.34,
+        "max_delta_v_kt": 104.87,
+        "ml_rank": 7,
+        "ml_score": 0.23,
+        "ml_label": "low",
+        "tornado_associated": 0,
+        "model_name": "RandomForestClassifier"
+      }
+    }
+  ]
+}

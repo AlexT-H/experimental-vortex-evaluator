@@ -1,0 +1,1573 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.462260982,
+          33.64072565
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0002",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_213353_V03.gz",
+        "scan_time_utc": "2011-04-27T21:33:53+00:00",
+        "latitude": 33.64072564966697,
+        "longitude": -87.46226098208595,
+        "center_x_km": -63.60179574638786,
+        "center_y_km": 52.413324531138926,
+        "confidence_score": 100.0,
+        "delta_v_kt": 109.9243782,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 51.21071613877034,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.431118076,
+          33.390210095
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0001",
+        "track_id": "test_case_2__TRK_001",
+        "radar_file": "KBMX20110427_213353_V03.gz",
+        "scan_time_utc": "2011-04-27T21:33:53+00:00",
+        "latitude": 33.39021009526117,
+        "longitude": -87.43111807597467,
+        "center_x_km": -62.65144750875211,
+        "center_y_km": 24.175451656895248,
+        "confidence_score": 100.0,
+        "delta_v_kt": 104.87038379999998,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 41.72753250467972,
+        "ml_rank": 7,
+        "ml_score": 0.23,
+        "ml_label": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.435121498,
+          33.630661337
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0004",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_213828_V03.gz",
+        "scan_time_utc": "2011-04-27T21:38:28+00:00",
+        "latitude": 33.63066133650684,
+        "longitude": -87.43512149771749,
+        "center_x_km": -59.90829011552859,
+        "center_y_km": 52.56118673211727,
+        "confidence_score": 100.0,
+        "delta_v_kt": 69.954031241813,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 49.52167655839476,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.913205103,
+          33.268316586
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0003",
+        "track_id": "test_case_2__TRK_003",
+        "radar_file": "KBMX20110427_213828_V03.gz",
+        "scan_time_utc": "2011-04-27T21:38:28+00:00",
+        "latitude": 33.26831658649599,
+        "longitude": -87.91320510307091,
+        "center_x_km": -105.40226998926664,
+        "center_y_km": 8.889954169401289,
+        "confidence_score": 100.0,
+        "delta_v_kt": 96.55688634521354,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 65.72645502050966,
+        "ml_rank": 10,
+        "ml_score": 0.0067,
+        "ml_label": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91035508,
+          33.059769001
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0005",
+        "track_id": "test_case_2__TRK_004",
+        "radar_file": "KBMX20110427_214303_V03.gz",
+        "scan_time_utc": "2011-04-27T21:43:03+00:00",
+        "latitude": 33.05976900128718,
+        "longitude": -87.91035508024193,
+        "center_x_km": -106.17460422859502,
+        "center_y_km": -12.929376003827208,
+        "confidence_score": 100.0,
+        "delta_v_kt": 107.883342,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 66.46118496207178,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.331965544,
+          33.644068778
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0007",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_214303_V03.gz",
+        "scan_time_utc": "2011-04-27T21:43:03+00:00",
+        "latitude": 33.644068777701115,
+        "longitude": -87.33196554404947,
+        "center_x_km": -52.15037794780759,
+        "center_y_km": 54.86320552628058,
+        "confidence_score": 100.0,
+        "delta_v_kt": 82.39684238485569,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 47.03426828473187,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.45463394,
+          33.213782998
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0006",
+        "track_id": "test_case_2__TRK_001",
+        "radar_file": "KBMX20110427_214303_V03.gz",
+        "scan_time_utc": "2011-04-27T21:43:03+00:00",
+        "latitude": 33.213782997960344,
+        "longitude": -87.45463394032204,
+        "center_x_km": -63.58058701663207,
+        "center_y_km": 5.283149036959046,
+        "confidence_score": 100.0,
+        "delta_v_kt": 99.8163894,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 39.64328820501106,
+        "ml_rank": 7,
+        "ml_score": 0.23,
+        "ml_label": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.858013651,
+          33.090204432
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0008",
+        "track_id": "test_case_2__TRK_004",
+        "radar_file": "KBMX20110427_214738_V03.gz",
+        "scan_time_utc": "2011-04-27T21:47:38+00:00",
+        "latitude": 33.09020443169837,
+        "longitude": -87.8580136507132,
+        "center_x_km": -100.23533520878924,
+        "center_y_km": -10.388073685038297,
+        "confidence_score": 100.0,
+        "delta_v_kt": 107.48341316637068,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 62.61691715664311,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.279265249,
+          33.66942167
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0009",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_214738_V03.gz",
+        "scan_time_utc": "2011-04-27T21:47:38+00:00",
+        "latitude": 33.669421670051776,
+        "longitude": -87.27926524917521,
+        "center_x_km": -46.31507003442955,
+        "center_y_km": 57.79029614066314,
+        "confidence_score": 100.0,
+        "delta_v_kt": 75.1139226684634,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 46.01840250184847,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.761844106,
+          33.0675077
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0010",
+        "track_id": "test_case_2__TRK_004",
+        "radar_file": "KBMX20110427_215214_V03.gz",
+        "scan_time_utc": "2011-04-27T21:52:14+00:00",
+        "latitude": 33.067507699972175,
+        "longitude": -87.76184410587858,
+        "center_x_km": -92.19682519733828,
+        "center_y_km": -11.177634752004536,
+        "confidence_score": 100.0,
+        "delta_v_kt": 108.78636459161524,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 57.70791971125964,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.221643881,
+          33.705487346
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0011",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_215214_V03.gz",
+        "scan_time_utc": "2011-04-27T21:52:14+00:00",
+        "latitude": 33.705487346173335,
+        "longitude": -87.22164388091888,
+        "center_x_km": -40.80920906673892,
+        "center_y_km": 61.9284330712174,
+        "confidence_score": 100.0,
+        "delta_v_kt": 85.32756399783699,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 46.08429499348217,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.69908661,
+          33.132668591
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0012",
+        "track_id": "test_case_2__TRK_004",
+        "radar_file": "KBMX20110427_215649_V03.gz",
+        "scan_time_utc": "2011-04-27T21:56:49+00:00",
+        "latitude": 33.132668590703645,
+        "longitude": -87.6990866095853,
+        "center_x_km": -86.97500977309596,
+        "center_y_km": -4.739415050911003,
+        "confidence_score": 100.0,
+        "delta_v_kt": 97.8237852209753,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 54.12392656372086,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.206027652,
+          33.771991408
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0013",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_215649_V03.gz",
+        "scan_time_utc": "2011-04-27T21:56:49+00:00",
+        "latitude": 33.771991408019176,
+        "longitude": -87.20602765151077,
+        "center_x_km": -37.4152361107476,
+        "center_y_km": 67.20013240906138,
+        "confidence_score": 100.0,
+        "delta_v_kt": 83.00896525482825,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 47.7921060412805,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.698689913,
+          33.146049522
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0014",
+        "track_id": "test_case_2__TRK_004",
+        "radar_file": "KBMX20110427_220124_V03.gz",
+        "scan_time_utc": "2011-04-27T22:01:24+00:00",
+        "latitude": 33.14604952236268,
+        "longitude": -87.6986899125326,
+        "center_x_km": -85.62962421139909,
+        "center_y_km": -3.580340597610709,
+        "confidence_score": 100.0,
+        "delta_v_kt": 104.35062558533537,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 53.25425484030971,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.108316525,
+          33.791372396
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0015",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_220124_V03.gz",
+        "scan_time_utc": "2011-04-27T22:01:24+00:00",
+        "latitude": 33.7913723963487,
+        "longitude": -87.10831652509891,
+        "center_x_km": -29.29999262509165,
+        "center_y_km": 70.8608606187959,
+        "confidence_score": 100.0,
+        "delta_v_kt": 97.3007828074446,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 47.6464395355529,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.521299716,
+          33.72544129
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0016",
+        "track_id": "test_case_2__TRK_005",
+        "radar_file": "KBMX20110427_220124_V03.gz",
+        "scan_time_utc": "2011-04-27T22:01:24+00:00",
+        "latitude": 33.725441289961985,
+        "longitude": -86.52129971584458,
+        "center_x_km": 23.615630780668468,
+        "center_y_km": 61.30422778802311,
+        "confidence_score": 92.55,
+        "delta_v_kt": 114.3611667697098,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 40.82131466896793,
+        "ml_rank": 3,
+        "ml_score": 0.9667,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.639178512,
+          33.163009711
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0017",
+        "track_id": "test_case_2__TRK_004",
+        "radar_file": "KBMX20110427_220559_V03.gz",
+        "scan_time_utc": "2011-04-27T22:05:59+00:00",
+        "latitude": 33.16300971126595,
+        "longitude": -87.6391785121455,
+        "center_x_km": -80.95227375809506,
+        "center_y_km": -0.8390780678050452,
+        "confidence_score": 100.0,
+        "delta_v_kt": 108.33481254598917,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 50.30409729524634,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.052023272,
+          33.844061934
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0018",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_220559_V03.gz",
+        "scan_time_utc": "2011-04-27T22:05:59+00:00",
+        "latitude": 33.84406193412686,
+        "longitude": -87.05202327190769,
+        "center_x_km": -23.658066446126742,
+        "center_y_km": 76.38996278299038,
+        "confidence_score": 100.0,
+        "delta_v_kt": 90.10991106722273,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 49.69076544874272,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.845141943,
+          33.141893437
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0019",
+        "track_id": "test_case_2__TRK_006",
+        "radar_file": "KBMX20110427_220559_V03.gz",
+        "scan_time_utc": "2011-04-27T22:05:59+00:00",
+        "latitude": 33.14189343666982,
+        "longitude": -87.84514194289024,
+        "center_x_km": -100.04591348472496,
+        "center_y_km": -4.985262460420271,
+        "confidence_score": 95.55,
+        "delta_v_kt": 103.03078665634368,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 62.24276019889049,
+        "ml_rank": 12,
+        "ml_score": 0.0033,
+        "ml_label": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.558299415,
+          33.182640699
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0020",
+        "track_id": "test_case_2__TRK_004",
+        "radar_file": "KBMX20110427_221035_V03.gz",
+        "scan_time_utc": "2011-04-27T22:10:35+00:00",
+        "latitude": 33.182640699398696,
+        "longitude": -87.55829941457168,
+        "center_x_km": -73.8420857511224,
+        "center_y_km": 0.701212659602803,
+        "confidence_score": 100.0,
+        "delta_v_kt": 110.1322240834408,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 45.885399409183904,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.999815326,
+          33.891617768
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0021",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_221035_V03.gz",
+        "scan_time_utc": "2011-04-27T22:10:35+00:00",
+        "latitude": 33.89161776815919,
+        "longitude": -86.99981532550089,
+        "center_x_km": -18.442941796770587,
+        "center_y_km": 80.35877852447459,
+        "confidence_score": 100.0,
+        "delta_v_kt": 92.37371864260837,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 51.23080632225235,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.561713605,
+          33.478051827
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0022",
+        "track_id": "test_case_2__TRK_007",
+        "radar_file": "KBMX20110427_221035_V03.gz",
+        "scan_time_utc": "2011-04-27T22:10:35+00:00",
+        "latitude": 33.478051826914715,
+        "longitude": -87.56171360477634,
+        "center_x_km": -74.6551950673551,
+        "center_y_km": 32.25554497528285,
+        "confidence_score": 99.95,
+        "delta_v_kt": 65.81016411139245,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 50.53323613443165,
+        "ml_rank": 17,
+        "ml_score": 0.0,
+        "ml_label": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.465354044,
+          33.192489371
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0023",
+        "track_id": "test_case_2__TRK_004",
+        "radar_file": "KBMX20110427_221510_V03.gz",
+        "scan_time_utc": "2011-04-27T22:15:10+00:00",
+        "latitude": 33.192489370887074,
+        "longitude": -87.46535404434,
+        "center_x_km": -65.01435430958438,
+        "center_y_km": 2.3072343109214417,
+        "confidence_score": 100.0,
+        "delta_v_kt": 112.45760164510828,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 40.42346506024655,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.901439789,
+          33.921449729
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0024",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_221510_V03.gz",
+        "scan_time_utc": "2011-04-27T22:15:10+00:00",
+        "latitude": 33.92144972876851,
+        "longitude": -86.90143978937729,
+        "center_x_km": -10.304403535624624,
+        "center_y_km": 83.30419898103028,
+        "confidence_score": 99.88,
+        "delta_v_kt": 109.01902697009824,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 52.15731433094155,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.325976387,
+          33.921155125
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0025",
+        "track_id": "test_case_2__TRK_005",
+        "radar_file": "KBMX20110427_221510_V03.gz",
+        "scan_time_utc": "2011-04-27T22:15:10+00:00",
+        "latitude": 33.92115512504349,
+        "longitude": -86.32597638678357,
+        "center_x_km": 40.4594206044017,
+        "center_y_km": 82.59446109562404,
+        "confidence_score": 92.94,
+        "delta_v_kt": 112.63669033817564,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 57.14860164962542,
+        "ml_rank": 3,
+        "ml_score": 0.9667,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.402758933,
+          33.227166882
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0026",
+        "track_id": "test_case_2__TRK_004",
+        "radar_file": "KBMX20110427_221945_V03.gz",
+        "scan_time_utc": "2011-04-27T22:19:45+00:00",
+        "latitude": 33.22716688209798,
+        "longitude": -87.40275893322598,
+        "center_x_km": -60.00075420704776,
+        "center_y_km": 5.624415378388977,
+        "confidence_score": 100.0,
+        "delta_v_kt": 100.25032033235352,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 37.44617232529024,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.863641195,
+          33.933395364
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0027",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_221945_V03.gz",
+        "scan_time_utc": "2011-04-27T22:19:45+00:00",
+        "latitude": 33.93339536449875,
+        "longitude": -86.86364119522766,
+        "center_x_km": -6.326552458869454,
+        "center_y_km": 85.24767855458543,
+        "confidence_score": 100.0,
+        "delta_v_kt": 103.5202793476744,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 53.11610720729294,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.709776007,
+          33.679233192
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0028",
+        "track_id": "test_case_2__TRK_008",
+        "radar_file": "KBMX20110427_221945_V03.gz",
+        "scan_time_utc": "2011-04-27T22:19:45+00:00",
+        "latitude": 33.67923319201094,
+        "longitude": -86.70977600654264,
+        "center_x_km": 5.5991003628939895,
+        "center_y_km": 56.27802147566578,
+        "confidence_score": 95.01,
+        "delta_v_kt": 110.992541307558,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 35.14217307354199,
+        "ml_rank": 6,
+        "ml_score": 0.42,
+        "ml_label": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.352232941,
+          33.269981072
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0029",
+        "track_id": "test_case_2__TRK_004",
+        "radar_file": "KBMX20110427_222420_V03.gz",
+        "scan_time_utc": "2011-04-27T22:24:20+00:00",
+        "latitude": 33.26998107174282,
+        "longitude": -87.35223294095628,
+        "center_x_km": -55.65431153198993,
+        "center_y_km": 10.437413531185667,
+        "confidence_score": 100.0,
+        "delta_v_kt": 109.22622031746826,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 35.184866045598326,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.745478341,
+          33.971245299
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0030",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_222420_V03.gz",
+        "scan_time_utc": "2011-04-27T22:24:20+00:00",
+        "latitude": 33.97124529855166,
+        "longitude": -86.7454783409765,
+        "center_x_km": 2.610499501555475,
+        "center_y_km": 89.03715850415514,
+        "confidence_score": 95.35,
+        "delta_v_kt": 108.60742907301348,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 55.34888229146654,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.265757642,
+          34.026228505
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0031",
+        "track_id": "test_case_2__TRK_005",
+        "radar_file": "KBMX20110427_222420_V03.gz",
+        "scan_time_utc": "2011-04-27T22:24:20+00:00",
+        "latitude": 34.02622850477,
+        "longitude": -86.26575764171511,
+        "center_x_km": 47.47870101739735,
+        "center_y_km": 93.40547318038703,
+        "confidence_score": 87.25,
+        "delta_v_kt": 110.3463482588828,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 65.10713794873394,
+        "ml_rank": 3,
+        "ml_score": 0.9667,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.353951423,
+          33.287333751
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0032",
+        "track_id": "test_case_2__TRK_004",
+        "radar_file": "KBMX20110427_222856_V03.gz",
+        "scan_time_utc": "2011-04-27T22:28:56+00:00",
+        "latitude": 33.28733375105698,
+        "longitude": -87.35395142323924,
+        "center_x_km": -53.900639724825055,
+        "center_y_km": 12.818036409686863,
+        "confidence_score": 100.0,
+        "delta_v_kt": 114.03094558098196,
+        "required_delta_v_kt": 90.0,
+        "radar_range_miles": 34.42631441748792,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.694513435,
+          34.034250669
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0033",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_222856_V03.gz",
+        "scan_time_utc": "2011-04-27T22:28:56+00:00",
+        "latitude": 34.03425066922837,
+        "longitude": -86.69451343508571,
+        "center_x_km": 7.765773603308961,
+        "center_y_km": 95.72939774455456,
+        "confidence_score": 100.0,
+        "delta_v_kt": 111.61104408530844,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 59.67887511753064,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6538235,
+          33.736166685
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0034",
+        "track_id": "test_case_2__TRK_008",
+        "radar_file": "KBMX20110427_222856_V03.gz",
+        "scan_time_utc": "2011-04-27T22:28:56+00:00",
+        "latitude": 33.73616668483995,
+        "longitude": -86.65382350046383,
+        "center_x_km": 10.77860505098398,
+        "center_y_km": 62.74488909510696,
+        "confidence_score": 99.85,
+        "delta_v_kt": 111.59547339688456,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 39.558936690950205,
+        "ml_rank": 6,
+        "ml_score": 0.42,
+        "ml_label": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.288427825,
+          33.37294371
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0035",
+        "track_id": "test_case_2__TRK_004",
+        "radar_file": "KBMX20110427_223330_V03.gz",
+        "scan_time_utc": "2011-04-27T22:33:30+00:00",
+        "latitude": 33.37294371049049,
+        "longitude": -87.2884278249162,
+        "center_x_km": -47.51031341825404,
+        "center_y_km": 20.298924831392213,
+        "confidence_score": 100.0,
+        "delta_v_kt": 110.07152778529615,
+        "required_delta_v_kt": 90.0,
+        "radar_range_miles": 32.10315680137815,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.620423825,
+          34.076999988
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0036",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_223330_V03.gz",
+        "scan_time_utc": "2011-04-27T22:33:30+00:00",
+        "latitude": 34.07699998797966,
+        "longitude": -86.62042382464178,
+        "center_x_km": 14.48104450084871,
+        "center_y_km": 100.3975929631373,
+        "confidence_score": 100.0,
+        "delta_v_kt": 111.5806156950396,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 63.02974167944047,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.436558133,
+          34.079609076
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0037",
+        "track_id": "test_case_2__TRK_009",
+        "radar_file": "KBMX20110427_223330_V03.gz",
+        "scan_time_utc": "2011-04-27T22:33:30+00:00",
+        "latitude": 34.079609075936915,
+        "longitude": -86.43655813315794,
+        "center_x_km": 30.756546049576848,
+        "center_y_km": 99.86000618020624,
+        "confidence_score": 94.9,
+        "delta_v_kt": 109.26676676024864,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 64.92653800615497,
+        "ml_rank": 11,
+        "ml_score": 0.0033,
+        "ml_label": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.543735995,
+          34.119733214
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0038",
+        "track_id": "test_case_2__TRK_002",
+        "radar_file": "KBMX20110427_223805_V03.gz",
+        "scan_time_utc": "2011-04-27T22:38:05+00:00",
+        "latitude": 34.119733214260606,
+        "longitude": -86.54373599480003,
+        "center_x_km": 21.348143468349235,
+        "center_y_km": 105.10446563990206,
+        "confidence_score": 100.0,
+        "delta_v_kt": 112.14889141271856,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 66.6424146775283,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.688618131,
+          33.723667855
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0039",
+        "track_id": "test_case_2__TRK_008",
+        "radar_file": "KBMX20110427_223805_V03.gz",
+        "scan_time_utc": "2011-04-27T22:38:05+00:00",
+        "latitude": 33.723667855135126,
+        "longitude": -86.6886181307464,
+        "center_x_km": 7.711192215609669,
+        "center_y_km": 61.77694004626513,
+        "confidence_score": 92.92,
+        "delta_v_kt": 115.23230877746936,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 38.68428891652124,
+        "ml_rank": 6,
+        "ml_score": 0.42,
+        "ml_label": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.734677259,
+          33.626910527
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0040",
+        "track_id": "test_case_2__TRK_010",
+        "radar_file": "KBMX20110427_223805_V03.gz",
+        "scan_time_utc": "2011-04-27T22:38:05+00:00",
+        "latitude": 33.6269105267321,
+        "longitude": -86.73467725853016,
+        "center_x_km": 3.977742714928044,
+        "center_y_km": 50.67907513516816,
+        "confidence_score": 78.69,
+        "delta_v_kt": 111.10341449751154,
+        "required_delta_v_kt": 90.0,
+        "radar_range_miles": 31.58735731241448,
+        "ml_rank": 9,
+        "ml_score": 0.0133,
+        "ml_label": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.618431592,
+          33.782495856
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0043",
+        "track_id": "test_case_2__TRK_012",
+        "radar_file": "KBMX20110427_224240_V03.gz",
+        "scan_time_utc": "2011-04-27T22:42:40+00:00",
+        "latitude": 33.78249585608159,
+        "longitude": -86.61843159216004,
+        "center_x_km": 14.126854106169452,
+        "center_y_km": 67.9924587004187,
+        "confidence_score": 90.93,
+        "delta_v_kt": 115.9294310297199,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 43.15081570911557,
+        "ml_rank": 4,
+        "ml_score": 0.9533,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.744443866,
+          33.688947938
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0041",
+        "track_id": "test_case_2__TRK_008",
+        "radar_file": "KBMX20110427_224240_V03.gz",
+        "scan_time_utc": "2011-04-27T22:42:40+00:00",
+        "latitude": 33.68894793768666,
+        "longitude": -86.74444386636522,
+        "center_x_km": 3.667901820382849,
+        "center_y_km": 58.11409413523887,
+        "confidence_score": 100.0,
+        "delta_v_kt": 113.34674420255293,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 36.1822654800666,
+        "ml_rank": 6,
+        "ml_score": 0.42,
+        "ml_label": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.721359523,
+          33.309885797
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0042",
+        "track_id": "test_case_2__TRK_011",
+        "radar_file": "KBMX20110427_224240_V03.gz",
+        "scan_time_utc": "2011-04-27T22:42:40+00:00",
+        "latitude": 33.30988579660479,
+        "longitude": -87.72135952307589,
+        "center_x_km": -87.77599738262501,
+        "center_y_km": 17.76848377457816,
+        "confidence_score": 100.0,
+        "delta_v_kt": 91.37989700689944,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 55.64773577846943,
+        "ml_rank": 15,
+        "ml_score": 0.0,
+        "ml_label": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.646651843,
+          33.820892287
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0045",
+        "track_id": "test_case_2__TRK_012",
+        "radar_file": "KBMX20110427_225539_V03.gz",
+        "scan_time_utc": "2011-04-27T22:55:39+00:00",
+        "latitude": 33.82089228687797,
+        "longitude": -86.64665184332371,
+        "center_x_km": 12.590660250213926,
+        "center_y_km": 71.87004405109315,
+        "confidence_score": 96.59,
+        "delta_v_kt": 114.77881639579633,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 45.33806562047977,
+        "ml_rank": 4,
+        "ml_score": 0.9533,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.713451229,
+          32.754246094
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0044",
+        "track_id": "test_case_2__TRK_013",
+        "radar_file": "KBMX20110427_225539_V03.gz",
+        "scan_time_utc": "2011-04-27T22:55:39+00:00",
+        "latitude": 32.7542460944486,
+        "longitude": -87.71345122944557,
+        "center_x_km": -88.82607780041366,
+        "center_y_km": -46.10547264553568,
+        "confidence_score": 100.0,
+        "delta_v_kt": 109.75002727603382,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 62.18612766221144,
+        "ml_rank": 5,
+        "ml_score": 0.4533,
+        "ml_label": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.206570016,
+          33.560209616
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0046",
+        "track_id": "test_case_2__TRK_014",
+        "radar_file": "KBMX20110427_225539_V03.gz",
+        "scan_time_utc": "2011-04-27T22:55:39+00:00",
+        "latitude": 33.560209615653804,
+        "longitude": -87.20657001618848,
+        "center_x_km": -40.77641927992569,
+        "center_y_km": 41.939168332396285,
+        "confidence_score": 96.57,
+        "delta_v_kt": 77.36224778062196,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 36.3468055024164,
+        "ml_rank": 16,
+        "ml_score": 0.0,
+        "ml_label": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.599874042,
+          33.864330868
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0048",
+        "track_id": "test_case_2__TRK_012",
+        "radar_file": "KBMX20110427_230014_V03.gz",
+        "scan_time_utc": "2011-04-27T23:00:14+00:00",
+        "latitude": 33.86433086763551,
+        "longitude": -86.59987404176742,
+        "center_x_km": 16.745434969432225,
+        "center_y_km": 77.02108641269693,
+        "confidence_score": 97.51,
+        "delta_v_kt": 114.96196716475632,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 48.97671821167836,
+        "ml_rank": 4,
+        "ml_score": 0.9533,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66303933,
+          32.790453387
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0047",
+        "track_id": "test_case_2__TRK_013",
+        "radar_file": "KBMX20110427_230014_V03.gz",
+        "scan_time_utc": "2011-04-27T23:00:14+00:00",
+        "latitude": 32.79045338688062,
+        "longitude": -87.66303932980749,
+        "center_x_km": -83.5339327597105,
+        "center_y_km": -42.31195365187688,
+        "confidence_score": 100.0,
+        "delta_v_kt": 113.34668456984576,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 58.184416475605694,
+        "ml_rank": 5,
+        "ml_score": 0.4533,
+        "ml_label": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.418795523,
+          33.350698076
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0049",
+        "track_id": "test_case_2__TRK_015",
+        "radar_file": "KBMX20110427_230014_V03.gz",
+        "scan_time_utc": "2011-04-27T23:00:14+00:00",
+        "latitude": 33.35069807648263,
+        "longitude": -87.41879552258123,
+        "center_x_km": -60.47485763112493,
+        "center_y_km": 19.97631107801612,
+        "confidence_score": 93.35,
+        "delta_v_kt": 93.30616427509426,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 39.5743643901683,
+        "ml_rank": 14,
+        "ml_score": 0.0,
+        "ml_label": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.575725939,
+          33.891365818
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0051",
+        "track_id": "test_case_2__TRK_012",
+        "radar_file": "KBMX20110427_230450_V03.gz",
+        "scan_time_utc": "2011-04-27T23:04:50+00:00",
+        "latitude": 33.8913658183734,
+        "longitude": -86.57572593912576,
+        "center_x_km": 19.418812496625907,
+        "center_y_km": 80.32371486723777,
+        "confidence_score": 95.14,
+        "delta_v_kt": 114.729841178306,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 51.34867023993959,
+        "ml_rank": 4,
+        "ml_score": 0.9533,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.565401671,
+          32.847083817
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0050",
+        "track_id": "test_case_2__TRK_013",
+        "radar_file": "KBMX20110427_230450_V03.gz",
+        "scan_time_utc": "2011-04-27T23:04:50+00:00",
+        "latitude": 32.84708381702149,
+        "longitude": -87.5654016712778,
+        "center_x_km": -74.97474361638027,
+        "center_y_km": -36.54183534091687,
+        "confidence_score": 100.0,
+        "delta_v_kt": 103.98798477859874,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 51.82590972893722,
+        "ml_rank": 5,
+        "ml_score": 0.4533,
+        "ml_label": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.401203491,
+          33.993801404
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0052",
+        "track_id": "test_case_2__TRK_016",
+        "radar_file": "KBMX20110427_230450_V03.gz",
+        "scan_time_utc": "2011-04-27T23:04:50+00:00",
+        "latitude": 33.993801403524934,
+        "longitude": -86.40120349090066,
+        "center_x_km": 33.54265232763939,
+        "center_y_km": 91.68749787824514,
+        "confidence_score": 83.78,
+        "delta_v_kt": 114.90835617662972,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 60.664736791483634,
+        "ml_rank": 8,
+        "ml_score": 0.0233,
+        "ml_label": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.477197985,
+          33.971023221
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0055",
+        "track_id": "test_case_2__TRK_012",
+        "radar_file": "KBMX20110427_230925_V03.gz",
+        "scan_time_utc": "2011-04-27T23:09:25+00:00",
+        "latitude": 33.971023220563666,
+        "longitude": -86.47719798463417,
+        "center_x_km": 26.48113217822711,
+        "center_y_km": 88.62339119070737,
+        "confidence_score": 93.04,
+        "delta_v_kt": 114.72336647406684,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 57.47381410904605,
+        "ml_rank": 4,
+        "ml_score": 0.9533,
+        "ml_label": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.507122201,
+          32.875597407
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0053",
+        "track_id": "test_case_2__TRK_013",
+        "radar_file": "KBMX20110427_230925_V03.gz",
+        "scan_time_utc": "2011-04-27T23:09:25+00:00",
+        "latitude": 32.875597406905904,
+        "longitude": -87.5071222007904,
+        "center_x_km": -69.84556251100634,
+        "center_y_km": -34.569406859901804,
+        "confidence_score": 100.0,
+        "delta_v_kt": 108.9008682857598,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 48.42488358098756,
+        "ml_rank": 5,
+        "ml_score": 0.4533,
+        "ml_label": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.841100287,
+          33.628559972
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0054",
+        "track_id": "test_case_2__TRK_017",
+        "radar_file": "KBMX20110427_230925_V03.gz",
+        "scan_time_utc": "2011-04-27T23:09:25+00:00",
+        "latitude": 33.62855997162969,
+        "longitude": -86.84110028727154,
+        "center_x_km": -4.574228643297415,
+        "center_y_km": 50.03772479354292,
+        "confidence_score": 97.97,
+        "delta_v_kt": 92.32066547719094,
+        "required_delta_v_kt": 90.0,
+        "radar_range_miles": 31.22163576360566,
+        "ml_rank": 13,
+        "ml_score": 0.0,
+        "ml_label": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.500850999,
+          32.875600056
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "detection_id": "DET_0056",
+        "track_id": "test_case_2__TRK_013",
+        "radar_file": "KBMX20110427_231401_V03.gz",
+        "scan_time_utc": "2011-04-27T23:14:01+00:00",
+        "latitude": 32.87560005622858,
+        "longitude": -87.50085099949091,
+        "center_x_km": -68.05546375144925,
+        "center_y_km": -33.23550784740222,
+        "confidence_score": 100.0,
+        "delta_v_kt": 110.970039016701,
+        "required_delta_v_kt": 65.0,
+        "radar_range_miles": 47.060988572020335,
+        "ml_rank": 5,
+        "ml_score": 0.4533,
+        "ml_label": "medium"
+      }
+    }
+  ]
+}

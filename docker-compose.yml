@@ -1,0 +1,66 @@
+services:
+  postgis:
+    image: postgis/postgis:16-3.4
+    container_name: eve_postgis
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-eve}
+      POSTGRES_USER: ${POSTGRES_USER:-eve_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-eve_password}
+    ports:
+      - "5432:5432"
+    volumes:
+      - eve_postgis_data:/var/lib/postgresql/data
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+      - ./database/indexes.sql:/docker-entrypoint-initdb.d/02_indexes.sql:ro
+
+  backend:
+    build: ./backend
+    container_name: eve_backend
+    working_dir: /app/backend
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+    environment:
+      PROJECT_ROOT: /app
+      POSTGRES_DB: ${POSTGRES_DB:-eve}
+      POSTGRES_USER: ${POSTGRES_USER:-eve_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-eve_password}
+      POSTGRES_HOST: postgis
+      POSTGRES_PORT: 5432
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    depends_on:
+      - postgis
+
+  frontend:
+    image: node:20
+    container_name: eve_frontend
+    working_dir: /app/frontend
+    command: sh -c "npm install && npm run dev -- --host 0.0.0.0"
+    environment:
+      VITE_API_BASE_URL: ${VITE_API_BASE_URL:-http://localhost:8000}
+    ports:
+      - "5173:5173"
+    volumes:
+      - .:/app
+    depends_on:
+      - backend
+
+  pipeline:
+    build: .
+    container_name: eve_pipeline
+    environment:
+      PROJECT_ROOT: /app
+      POSTGRES_DB: ${POSTGRES_DB:-eve}
+      POSTGRES_USER: ${POSTGRES_USER:-eve_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-eve_password}
+      POSTGRES_HOST: postgis
+      POSTGRES_PORT: 5432
+    volumes:
+      - .:/app
+    working_dir: /app
+    depends_on:
+      - postgis
+
+volumes:
+  eve_postgis_data:

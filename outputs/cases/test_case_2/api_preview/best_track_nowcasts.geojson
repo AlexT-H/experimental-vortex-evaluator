@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.288427825,
+            33.37294371
+          ],
+          [
+            -87.114928431,
+            33.521154888
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_004",
+        "ranked_track_name": "RANK_02_TRK_004",
+        "track_quality_rank": 2,
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:33:30+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T22:48:30+00:00",
+        "speed_kt": 49.83,
+        "bearing_deg": 44.35,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.288427825,
+            33.37294371
+          ],
+          [
+            -86.941429037,
+            33.669366065
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_004",
+        "ranked_track_name": "RANK_02_TRK_004",
+        "track_quality_rank": 2,
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:33:30+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T23:03:30+00:00",
+        "speed_kt": 49.83,
+        "bearing_deg": 44.35,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    }
+  ]
+}

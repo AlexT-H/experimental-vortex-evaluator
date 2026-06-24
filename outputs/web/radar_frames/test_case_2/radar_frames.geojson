@@ -1,0 +1,992 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.86402278436643,
+              31.43549065976998
+            ],
+            [
+              -85.5816397492515,
+              31.43549065976998
+            ],
+            [
+              -85.5816397492515,
+              34.93828713373983
+            ],
+            [
+              -88.86402278436643,
+              34.93828713373983
+            ],
+            [
+              -88.86402278436643,
+              31.43549065976998
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T21:33:53Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_213353_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_213353_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_213353_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.86398380670265,
+              31.493760777201963
+            ],
+            [
+              -85.322616228424,
+              31.493760777201963
+            ],
+            [
+              -85.322616228424,
+              34.938286425334915
+            ],
+            [
+              -88.86398380670265,
+              34.938286425334915
+            ],
+            [
+              -88.86398380670265,
+              31.493760777201963
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T21:38:28Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_213828_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_213828_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_213828_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.86398380670265,
+              31.460235669903597
+            ],
+            [
+              -85.53359513899974,
+              31.460235669903597
+            ],
+            [
+              -85.53359513899974,
+              34.93828713373983
+            ],
+            [
+              -88.86398380670265,
+              34.93828713373983
+            ],
+            [
+              -88.86398380670265,
+              31.460235669903597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T21:43:03Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_214303_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_214303_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_214303_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.86219325567215,
+              31.414184710815366
+            ],
+            [
+              -85.47716579617425,
+              31.414184710815366
+            ],
+            [
+              -85.47716579617425,
+              34.93828850169443
+            ],
+            [
+              -88.86219325567215,
+              34.93828850169443
+            ],
+            [
+              -88.86219325567215,
+              31.414184710815366
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T21:47:38Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_214738_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_214738_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_214738_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.85321894713324,
+              31.40809828601727
+            ],
+            [
+              -85.44917446892077,
+              31.40809828601727
+            ],
+            [
+              -85.44917446892077,
+              34.938286425334915
+            ],
+            [
+              -88.85321894713324,
+              34.938286425334915
+            ],
+            [
+              -88.85321894713324,
+              31.40809828601727
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T21:52:14Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_215214_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_215214_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_215214_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.80270310383573,
+              31.4290016380724
+            ],
+            [
+              -85.39282527412814,
+              31.4290016380724
+            ],
+            [
+              -85.39282527412814,
+              34.93828713373983
+            ],
+            [
+              -88.80270310383573,
+              34.93828713373983
+            ],
+            [
+              -88.80270310383573,
+              31.4290016380724
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T21:56:49Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_215649_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_215649_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_215649_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.75645822989922,
+              31.448835861766213
+            ],
+            [
+              -85.4138336406201,
+              31.448835861766213
+            ],
+            [
+              -85.4138336406201,
+              34.93828570064493
+            ],
+            [
+              -88.75645822989922,
+              34.93828570064493
+            ],
+            [
+              -88.75645822989922,
+              31.448835861766213
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T22:01:24Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_220124_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_220124_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_220124_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.71816679953882,
+              31.430370722387515
+            ],
+            [
+              -85.11928508462755,
+              31.430370722387515
+            ],
+            [
+              -85.11928508462755,
+              34.93828782585967
+            ],
+            [
+              -88.71816679953882,
+              34.93828782585967
+            ],
+            [
+              -88.71816679953882,
+              31.430370722387515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T22:05:59Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_220559_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_220559_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_220559_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.7508469708776,
+              31.44464435031444
+            ],
+            [
+              -85.04995778442775,
+              31.44464435031444
+            ],
+            [
+              -85.04995778442775,
+              34.938284959669886
+            ],
+            [
+              -88.7508469708776,
+              34.938284959669886
+            ],
+            [
+              -88.7508469708776,
+              31.44464435031444
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T22:10:35Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_221035_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_221035_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_221035_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.77088793642707,
+              31.441664927200833
+            ],
+            [
+              -85.02009292069239,
+              31.441664927200833
+            ],
+            [
+              -85.02009292069239,
+              34.93828183291929
+            ],
+            [
+              -88.77088793642707,
+              34.93828183291929
+            ],
+            [
+              -88.77088793642707,
+              31.441664927200833
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T22:15:10Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_221510_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_221510_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_221510_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.77720318477716,
+              31.452724208115107
+            ],
+            [
+              -84.98944533900416,
+              31.452724208115107
+            ],
+            [
+              -84.98944533900416,
+              34.938286425334915
+            ],
+            [
+              -88.77720318477716,
+              34.938286425334915
+            ],
+            [
+              -88.77720318477716,
+              31.452724208115107
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T22:19:45Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_221945_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_221945_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_221945_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.76873692068759,
+              31.487951364496624
+            ],
+            [
+              -84.90160737160177,
+              31.487951364496624
+            ],
+            [
+              -84.90160737160177,
+              34.93828713373983
+            ],
+            [
+              -88.76873692068759,
+              34.93828713373983
+            ],
+            [
+              -88.76873692068759,
+              31.487951364496624
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T22:24:20Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_222420_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_222420_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_222420_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.7570044169667,
+              31.427713215313695
+            ],
+            [
+              -84.91683179246483,
+              31.427713215313695
+            ],
+            [
+              -84.91683179246483,
+              34.93828713373983
+            ],
+            [
+              -88.7570044169667,
+              34.93828713373983
+            ],
+            [
+              -88.7570044169667,
+              31.427713215313695
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T22:28:56Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_222856_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_222856_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_222856_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.7508469708776,
+              31.45051363068536
+            ],
+            [
+              -84.86760279194077,
+              31.45051363068536
+            ],
+            [
+              -84.86760279194077,
+              34.93828183291929
+            ],
+            [
+              -88.7508469708776,
+              34.93828183291929
+            ],
+            [
+              -88.7508469708776,
+              31.45051363068536
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T22:33:30Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_223330_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_223330_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_223330_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.75720050754033,
+              31.608134389790912
+            ],
+            [
+              -84.80705437869192,
+              31.608134389790912
+            ],
+            [
+              -84.80705437869192,
+              34.93815815684704
+            ],
+            [
+              -88.75720050754033,
+              34.93815815684704
+            ],
+            [
+              -88.75720050754033,
+              31.608134389790912
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T22:38:05Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_223805_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_223805_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_223805_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.7795736795077,
+              31.62402436637701
+            ],
+            [
+              -84.77675277954872,
+              31.62402436637701
+            ],
+            [
+              -84.77675277954872,
+              34.9382842024098
+            ],
+            [
+              -88.7795736795077,
+              34.9382842024098
+            ],
+            [
+              -88.7795736795077,
+              31.62402436637701
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T22:42:40Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_224240_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_224240_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_224240_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.79216464770792,
+              31.419761288948468
+            ],
+            [
+              -84.76882438560041,
+              31.419761288948468
+            ],
+            [
+              -84.76882438560041,
+              34.93787146389942
+            ],
+            [
+              -88.79216464770792,
+              34.93787146389942
+            ],
+            [
+              -88.79216464770792,
+              31.419761288948468
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T22:55:39Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_225539_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_225539_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_225539_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.79736143198275,
+              31.454181793611614
+            ],
+            [
+              -84.78619661957426,
+              31.454181793611614
+            ],
+            [
+              -84.78619661957426,
+              34.93341392918759
+            ],
+            [
+              -88.79736143198275,
+              34.93341392918759
+            ],
+            [
+              -88.79736143198275,
+              31.454181793611614
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T23:00:14Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_230014_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_230014_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_230014_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.79698425183705,
+              31.483994513855034
+            ],
+            [
+              -84.79384846986085,
+              31.483994513855034
+            ],
+            [
+              -84.79384846986085,
+              34.93747884398138
+            ],
+            [
+              -88.79698425183705,
+              34.93747884398138
+            ],
+            [
+              -88.79698425183705,
+              31.483994513855034
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T23:04:50Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_230450_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_230450_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_230450_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.806544083618,
+              31.495650656879963
+            ],
+            [
+              -84.78082321440563,
+              31.495650656879963
+            ],
+            [
+              -84.78082321440563,
+              34.93692022148219
+            ],
+            [
+              -88.806544083618,
+              34.93692022148219
+            ],
+            [
+              -88.806544083618,
+              31.495650656879963
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T23:09:25Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_230925_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_230925_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_230925_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.806544083618,
+              31.432985937996825
+            ],
+            [
+              -84.93004374695688,
+              31.432985937996825
+            ],
+            [
+              -84.93004374695688,
+              34.91770765191961
+            ],
+            [
+              -88.806544083618,
+              34.91770765191961
+            ],
+            [
+              -88.806544083618,
+              31.432985937996825
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "scan_time": "2011-04-27T23:14:01Z",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "radar_file": "KBMX20110427_231401_V03.gz",
+        "sweep": 1,
+        "product": "velocity",
+        "field_name": "velocity",
+        "image_path": "outputs/web/radar_frames/test_case_2/KBMX20110427_231401_V03_sweep1_velocity.png",
+        "image_url_path": "/radar_frames/test_case_2/KBMX20110427_231401_V03_sweep1_velocity.png",
+        "vmin_kt": -60.0,
+        "vmax_kt": 60.0,
+        "display_range_mi": 120.0,
+        "status": "ok",
+        "message": ""
+      }
+    }
+  ]
+}

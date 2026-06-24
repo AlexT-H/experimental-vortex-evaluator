@@ -1,0 +1,481 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.288427825,
+            33.37294371
+          ],
+          [
+            -87.114928431,
+            33.521154888
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_004",
+        "ranked_track_name": "RANK_02_TRK_004",
+        "track_quality_rank": 2,
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:33:30+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T22:48:30+00:00",
+        "speed_kt": 49.83,
+        "bearing_deg": 44.35,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.288427825,
+            33.37294371
+          ],
+          [
+            -86.941429037,
+            33.669366065
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_004",
+        "ranked_track_name": "RANK_02_TRK_004",
+        "track_quality_rank": 2,
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:33:30+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T23:03:30+00:00",
+        "speed_kt": 49.83,
+        "bearing_deg": 44.35,
+        "ml_rank": 1,
+        "ml_score": 0.9967,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.543735995,
+            34.119733214
+          ],
+          [
+            -86.308295712,
+            34.258940666
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_002",
+        "ranked_track_name": "RANK_01_TRK_002",
+        "track_quality_rank": 1,
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:38:05+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T22:53:05+00:00",
+        "speed_kt": 57.59,
+        "bearing_deg": 54.47,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.543735995,
+            34.119733214
+          ],
+          [
+            -86.07285543,
+            34.398148118
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_002",
+        "ranked_track_name": "RANK_01_TRK_002",
+        "track_quality_rank": 1,
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:38:05+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T23:08:05+00:00",
+        "speed_kt": 57.59,
+        "bearing_deg": 54.47,
+        "ml_rank": 2,
+        "ml_score": 0.99,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.265757642,
+            34.026228505
+          ],
+          [
+            -86.100325291,
+            34.212354188
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_005",
+        "ranked_track_name": "RANK_05_TRK_005",
+        "track_quality_rank": 5,
+        "track_quality_score": 87.93,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:24:20+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T22:39:20+00:00",
+        "speed_kt": 55.58,
+        "bearing_deg": 36.38,
+        "ml_rank": 3,
+        "ml_score": 0.9667,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.265757642,
+            34.026228505
+          ],
+          [
+            -85.93489294,
+            34.398479872
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_005",
+        "ranked_track_name": "RANK_05_TRK_005",
+        "track_quality_rank": 5,
+        "track_quality_score": 87.93,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:24:20+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T22:54:20+00:00",
+        "speed_kt": 55.58,
+        "bearing_deg": 36.38,
+        "ml_rank": 3,
+        "ml_score": 0.9667,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.477197985,
+            33.971023221
+          ],
+          [
+            -86.324315188,
+            34.132078967
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_012",
+        "ranked_track_name": "RANK_03_TRK_012",
+        "track_quality_rank": 3,
+        "track_quality_score": 97.64,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T23:09:25+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T23:24:25+00:00",
+        "speed_kt": 49.28,
+        "bearing_deg": 38.21,
+        "ml_rank": 4,
+        "ml_score": 0.9533,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.477197985,
+            33.971023221
+          ],
+          [
+            -86.171432392,
+            34.293134714
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_012",
+        "ranked_track_name": "RANK_03_TRK_012",
+        "track_quality_rank": 3,
+        "track_quality_score": 97.64,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T23:09:25+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T23:39:25+00:00",
+        "speed_kt": 49.28,
+        "bearing_deg": 38.21,
+        "ml_rank": 4,
+        "ml_score": 0.9533,
+        "ml_label": "high",
+        "tornado_associated": 1,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.500850999,
+            32.875600056
+          ],
+          [
+            -87.356857334,
+            32.949098654
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_013",
+        "ranked_track_name": "RANK_04_TRK_013",
+        "track_quality_rank": 4,
+        "track_quality_score": 94.53,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T23:14:01+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T23:29:01+00:00",
+        "speed_kt": 34.03,
+        "bearing_deg": 58.71,
+        "ml_rank": 5,
+        "ml_score": 0.4533,
+        "ml_label": "medium",
+        "tornado_associated": 0,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.500850999,
+            32.875600056
+          ],
+          [
+            -87.212863669,
+            33.022597253
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_013",
+        "ranked_track_name": "RANK_04_TRK_013",
+        "track_quality_rank": 4,
+        "track_quality_score": 94.53,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T23:14:01+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T23:44:01+00:00",
+        "speed_kt": 34.03,
+        "bearing_deg": 58.71,
+        "ml_rank": 5,
+        "ml_score": 0.4533,
+        "ml_label": "medium",
+        "tornado_associated": 0,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.744443866,
+            33.688947938
+          ],
+          [
+            -86.794538604,
+            33.665665359
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_008",
+        "ranked_track_name": "RANK_06_TRK_008",
+        "track_quality_rank": 6,
+        "track_quality_score": 84.73,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:42:40+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T22:57:40+00:00",
+        "speed_kt": 11.48,
+        "bearing_deg": 240.81,
+        "ml_rank": 6,
+        "ml_score": 0.42,
+        "ml_label": "medium",
+        "tornado_associated": 0,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.744443866,
+            33.688947938
+          ],
+          [
+            -86.844633342,
+            33.642382781
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_008",
+        "ranked_track_name": "RANK_06_TRK_008",
+        "track_quality_rank": 6,
+        "track_quality_score": 84.73,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:42:40+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T23:12:40+00:00",
+        "speed_kt": 11.48,
+        "bearing_deg": 240.81,
+        "ml_rank": 6,
+        "ml_score": 0.42,
+        "ml_label": "medium",
+        "tornado_associated": 0,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.45463394,
+            33.213782998
+          ],
+          [
+            -87.470958925,
+            32.936073
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_001",
+        "ranked_track_name": "RANK_07_TRK_001",
+        "track_quality_rank": 7,
+        "track_quality_score": 65.57,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T21:43:03+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T21:58:03+00:00",
+        "speed_kt": 66.85,
+        "bearing_deg": 182.82,
+        "ml_rank": 7,
+        "ml_score": 0.23,
+        "ml_label": "low",
+        "tornado_associated": 0,
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.45463394,
+            33.213782998
+          ],
+          [
+            -87.48728391,
+            32.658363001
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "track_id": "test_case_2__TRK_001",
+        "ranked_track_name": "RANK_07_TRK_001",
+        "track_quality_rank": 7,
+        "track_quality_score": 65.57,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T21:43:03+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T22:13:03+00:00",
+        "speed_kt": 66.85,
+        "bearing_deg": 182.82,
+        "ml_rank": 7,
+        "ml_score": 0.23,
+        "ml_label": "low",
+        "tornado_associated": 0,
+        "model_name": "RandomForestClassifier"
+      }
+    }
+  ]
+}

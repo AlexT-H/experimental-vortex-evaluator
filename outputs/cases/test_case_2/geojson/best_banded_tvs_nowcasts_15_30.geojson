@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.54373599480003,
+            34.119733214260606
+          ],
+          [
+            -86.30829571226542,
+            34.25894066602684
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_002",
+        "track_quality_rank": 1,
+        "ranked_track_name": "RANK_01_TRK_002",
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:38:05+00:00",
+        "projection_min": 15,
+        "valid_time_utc": "2011-04-27T22:53:05+00:00",
+        "start_x_km": 21.348143468349235,
+        "start_y_km": 105.10446563990206,
+        "end_x_km": 43.045890526804286,
+        "end_y_km": 120.6010391705187,
+        "speed_kt": 57.59,
+        "bearing_deg": 54.47,
+        "source_detection_id": "DET_0038",
+        "source_radar_file": "KBMX20110427_223805_V03.gz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.54373599480003,
+            34.119733214260606
+          ],
+          [
+            -86.07285542973081,
+            34.39814811779306
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_002",
+        "track_quality_rank": 1,
+        "ranked_track_name": "RANK_01_TRK_002",
+        "track_quality_score": 100.0,
+        "track_quality_label": "high",
+        "issued_time_utc": "2011-04-27T22:38:05+00:00",
+        "projection_min": 30,
+        "valid_time_utc": "2011-04-27T23:08:05+00:00",
+        "start_x_km": 21.348143468349235,
+        "start_y_km": 105.10446563990206,
+        "end_x_km": 64.74363758525934,
+        "end_y_km": 136.09761270113535,
+        "speed_kt": 57.59,
+        "bearing_deg": 54.47,
+        "source_detection_id": "DET_0038",
+        "source_radar_file": "KBMX20110427_223805_V03.gz"
+      }
+    }
+  ]
+}

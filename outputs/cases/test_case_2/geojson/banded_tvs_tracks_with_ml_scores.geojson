@@ -1,0 +1,595 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.46226098208595,
+            33.64072564966697
+          ],
+          [
+            -87.43512149771749,
+            33.63066133650684
+          ],
+          [
+            -87.33196554404947,
+            33.644068777701115
+          ],
+          [
+            -87.27926524917521,
+            33.669421670051776
+          ],
+          [
+            -87.22164388091888,
+            33.705487346173335
+          ],
+          [
+            -87.20602765151077,
+            33.771991408019176
+          ],
+          [
+            -87.10831652509891,
+            33.7913723963487
+          ],
+          [
+            -87.05202327190769,
+            33.84406193412686
+          ],
+          [
+            -86.99981532550089,
+            33.89161776815919
+          ],
+          [
+            -86.90143978937729,
+            33.92144972876851
+          ],
+          [
+            -86.86364119522766,
+            33.93339536449875
+          ],
+          [
+            -86.7454783409765,
+            33.97124529855166
+          ],
+          [
+            -86.69451343508571,
+            34.03425066922837
+          ],
+          [
+            -86.62042382464178,
+            34.07699998797966
+          ],
+          [
+            -86.54373599480003,
+            34.119733214260606
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_002",
+        "detection_count": 15,
+        "start_time_utc": "2011-04-27T21:33:53+00:00",
+        "end_time_utc": "2011-04-27T22:38:05+00:00",
+        "duration_min": 64.2,
+        "persistence_min": 64.2,
+        "path_length_km": 102.571,
+        "speed_kt": 57.59,
+        "bearing_deg": 54.47,
+        "motion_vx_km_min": 1.44652,
+        "motion_vy_km_min": 1.0331,
+        "mean_step_distance_km": 7.327,
+        "max_step_distance_km": 9.707,
+        "mean_step_speed_kt": 51.76,
+        "max_step_speed_kt": 68.62,
+        "mean_turn_angle_deg": 14.55,
+        "max_turn_angle_deg": 32.95,
+        "start_x_km": -63.60179574638786,
+        "start_y_km": 52.413324531138926,
+        "end_x_km": 21.348143468349235,
+        "end_y_km": 105.10446563990206,
+        "start_latitude": 33.64072564966697,
+        "start_longitude": -87.46226098208595,
+        "end_latitude": 34.119733214260606,
+        "end_longitude": -86.54373599480003,
+        "mean_confidence_score": 99.68,
+        "max_confidence_score": 100.0,
+        "mean_delta_v_kt": 96.13,
+        "max_delta_v_kt": 112.15,
+        "track_quality_score": 100.0,
+        "quality_persistence_score": 18.0,
+        "quality_duration_score": 14.0,
+        "quality_confidence_score": 24.0,
+        "quality_delta_v_score": 19.33,
+        "quality_speed_score": 10.76,
+        "quality_smoothness_score": 16.86,
+        "quality_penalty": 0.0,
+        "track_quality_label": "high",
+        "projectable": true,
+        "track_quality_rank": 1,
+        "ranked_track_name": "RANK_01_TRK_002",
+        "ml_score": 0.99,
+        "ml_rank": 2,
+        "ml_label": "high",
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.91035508024193,
+            33.05976900128718
+          ],
+          [
+            -87.8580136507132,
+            33.09020443169837
+          ],
+          [
+            -87.76184410587858,
+            33.067507699972175
+          ],
+          [
+            -87.6990866095853,
+            33.132668590703645
+          ],
+          [
+            -87.6986899125326,
+            33.14604952236268
+          ],
+          [
+            -87.6391785121455,
+            33.16300971126595
+          ],
+          [
+            -87.55829941457168,
+            33.182640699398696
+          ],
+          [
+            -87.46535404434,
+            33.192489370887074
+          ],
+          [
+            -87.40275893322598,
+            33.22716688209798
+          ],
+          [
+            -87.35223294095628,
+            33.26998107174282
+          ],
+          [
+            -87.35395142323924,
+            33.28733375105698
+          ],
+          [
+            -87.2884278249162,
+            33.37294371049049
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_004",
+        "detection_count": 12,
+        "start_time_utc": "2011-04-27T21:43:03+00:00",
+        "end_time_utc": "2011-04-27T22:33:30+00:00",
+        "duration_min": 50.45,
+        "persistence_min": 50.45,
+        "path_length_km": 71.564,
+        "speed_kt": 49.83,
+        "bearing_deg": 44.35,
+        "motion_vx_km_min": 1.07528,
+        "motion_vy_km_min": 1.09992,
+        "mean_step_distance_km": 6.506,
+        "max_step_distance_km": 9.839,
+        "mean_step_speed_kt": 45.97,
+        "max_step_speed_kt": 69.8,
+        "mean_turn_angle_deg": 17.34,
+        "max_turn_angle_deg": 56.57,
+        "start_x_km": -106.17460422859502,
+        "start_y_km": -12.929376003827208,
+        "end_x_km": -47.51031341825404,
+        "end_y_km": 20.298924831392213,
+        "start_latitude": 33.05976900128718,
+        "start_longitude": -87.91035508024193,
+        "end_latitude": 33.37294371049049,
+        "end_longitude": -87.2884278249162,
+        "mean_confidence_score": 100.0,
+        "max_confidence_score": 100.0,
+        "mean_delta_v_kt": 107.57,
+        "max_delta_v_kt": 114.03,
+        "track_quality_score": 100.0,
+        "quality_persistence_score": 18.0,
+        "quality_duration_score": 14.0,
+        "quality_confidence_score": 24.0,
+        "quality_delta_v_score": 20.87,
+        "quality_speed_score": 12.0,
+        "quality_smoothness_score": 15.53,
+        "quality_penalty": 0.0,
+        "track_quality_label": "high",
+        "projectable": true,
+        "track_quality_rank": 2,
+        "ranked_track_name": "RANK_02_TRK_004",
+        "ml_score": 0.9967,
+        "ml_rank": 1,
+        "ml_label": "high",
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.61843159216004,
+            33.78249585608159
+          ],
+          [
+            -86.64665184332371,
+            33.82089228687797
+          ],
+          [
+            -86.59987404176742,
+            33.86433086763551
+          ],
+          [
+            -86.57572593912576,
+            33.8913658183734
+          ],
+          [
+            -86.47719798463417,
+            33.971023220563666
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_012",
+        "detection_count": 5,
+        "start_time_utc": "2011-04-27T22:42:40+00:00",
+        "end_time_utc": "2011-04-27T23:09:25+00:00",
+        "duration_min": 26.75,
+        "persistence_min": 26.75,
+        "path_length_km": 25.935,
+        "speed_kt": 49.28,
+        "bearing_deg": 38.21,
+        "motion_vx_km_min": 0.94094,
+        "motion_vy_km_min": 1.19525,
+        "mean_step_distance_km": 6.484,
+        "max_step_distance_km": 10.898,
+        "mean_step_speed_kt": 41.04,
+        "max_step_speed_kt": 77.03,
+        "mean_turn_angle_deg": 20.67,
+        "max_turn_angle_deg": 60.5,
+        "start_x_km": 14.126854106169452,
+        "start_y_km": 67.9924587004187,
+        "end_x_km": 26.48113217822711,
+        "end_y_km": 88.62339119070737,
+        "start_latitude": 33.78249585608159,
+        "start_longitude": -86.61843159216004,
+        "end_latitude": 33.971023220563666,
+        "end_longitude": -86.47719798463417,
+        "mean_confidence_score": 94.64,
+        "max_confidence_score": 97.51,
+        "mean_delta_v_kt": 115.02,
+        "max_delta_v_kt": 115.93,
+        "track_quality_score": 97.64,
+        "quality_persistence_score": 14.4,
+        "quality_duration_score": 11.7,
+        "quality_confidence_score": 23.81,
+        "quality_delta_v_score": 21.0,
+        "quality_speed_score": 12.0,
+        "quality_smoothness_score": 14.72,
+        "quality_penalty": 0.0,
+        "track_quality_label": "high",
+        "projectable": true,
+        "track_quality_rank": 3,
+        "ranked_track_name": "RANK_03_TRK_012",
+        "ml_score": 0.9533,
+        "ml_rank": 4,
+        "ml_label": "high",
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.71345122944557,
+            32.7542460944486
+          ],
+          [
+            -87.66303932980749,
+            32.79045338688062
+          ],
+          [
+            -87.5654016712778,
+            32.84708381702149
+          ],
+          [
+            -87.5071222007904,
+            32.875597406905904
+          ],
+          [
+            -87.50085099949091,
+            32.87560005622858
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_013",
+        "detection_count": 5,
+        "start_time_utc": "2011-04-27T22:55:39+00:00",
+        "end_time_utc": "2011-04-27T23:14:01+00:00",
+        "duration_min": 18.37,
+        "persistence_min": 18.37,
+        "path_length_km": 24.562,
+        "speed_kt": 34.03,
+        "bearing_deg": 58.71,
+        "motion_vx_km_min": 0.89749,
+        "motion_vy_km_min": 0.54546,
+        "mean_step_distance_km": 6.14,
+        "max_step_distance_km": 10.322,
+        "mean_step_speed_kt": 43.32,
+        "max_step_speed_kt": 72.7,
+        "mean_turn_angle_deg": 10.09,
+        "max_turn_angle_deg": 15.66,
+        "start_x_km": -88.82607780041366,
+        "start_y_km": -46.10547264553568,
+        "end_x_km": -68.05546375144925,
+        "end_y_km": -33.23550784740222,
+        "start_latitude": 32.7542460944486,
+        "start_longitude": -87.71345122944557,
+        "end_latitude": 32.87560005622858,
+        "end_longitude": -87.50085099949091,
+        "mean_confidence_score": 100.0,
+        "max_confidence_score": 100.0,
+        "mean_delta_v_kt": 109.39,
+        "max_delta_v_kt": 113.35,
+        "track_quality_score": 94.53,
+        "quality_persistence_score": 14.4,
+        "quality_duration_score": 8.04,
+        "quality_confidence_score": 24.0,
+        "quality_delta_v_score": 20.78,
+        "quality_speed_score": 12.0,
+        "quality_smoothness_score": 15.31,
+        "quality_penalty": 0.0,
+        "track_quality_label": "high",
+        "projectable": true,
+        "track_quality_rank": 4,
+        "ranked_track_name": "RANK_04_TRK_013",
+        "ml_score": 0.4533,
+        "ml_rank": 5,
+        "ml_label": "medium",
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.52129971584458,
+            33.725441289961985
+          ],
+          [
+            -86.32597638678357,
+            33.92115512504349
+          ],
+          [
+            -86.26575764171511,
+            34.02622850477
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_005",
+        "detection_count": 3,
+        "start_time_utc": "2011-04-27T22:01:24+00:00",
+        "end_time_utc": "2011-04-27T22:24:20+00:00",
+        "duration_min": 22.93,
+        "persistence_min": 22.93,
+        "path_length_km": 40.037,
+        "speed_kt": 55.58,
+        "bearing_deg": 36.38,
+        "motion_vx_km_min": 1.01752,
+        "motion_vy_km_min": 1.3813,
+        "mean_step_distance_km": 20.019,
+        "max_step_distance_km": 27.148,
+        "mean_step_speed_kt": 54.72,
+        "max_step_speed_kt": 63.89,
+        "mean_turn_angle_deg": 5.35,
+        "max_turn_angle_deg": 5.35,
+        "start_x_km": 23.615630780668468,
+        "start_y_km": 61.30422778802311,
+        "end_x_km": 47.47870101739735,
+        "end_y_km": 93.40547318038703,
+        "start_latitude": 33.725441289961985,
+        "start_longitude": -86.52129971584458,
+        "end_latitude": 34.02622850477,
+        "end_longitude": -86.26575764171511,
+        "mean_confidence_score": 90.91,
+        "max_confidence_score": 92.94,
+        "mean_delta_v_kt": 112.45,
+        "max_delta_v_kt": 114.36,
+        "track_quality_score": 87.93,
+        "quality_persistence_score": 7.2,
+        "quality_duration_score": 10.03,
+        "quality_confidence_score": 21.4,
+        "quality_delta_v_score": 20.91,
+        "quality_speed_score": 11.72,
+        "quality_smoothness_score": 16.66,
+        "quality_penalty": 0.0,
+        "track_quality_label": "high",
+        "projectable": true,
+        "track_quality_rank": 5,
+        "ranked_track_name": "RANK_05_TRK_005",
+        "ml_score": 0.9667,
+        "ml_rank": 3,
+        "ml_label": "high",
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.70977600654264,
+            33.67923319201094
+          ],
+          [
+            -86.65382350046383,
+            33.73616668483995
+          ],
+          [
+            -86.6886181307464,
+            33.723667855135126
+          ],
+          [
+            -86.74444386636522,
+            33.68894793768666
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_008",
+        "detection_count": 4,
+        "start_time_utc": "2011-04-27T22:19:45+00:00",
+        "end_time_utc": "2011-04-27T22:42:40+00:00",
+        "duration_min": 22.92,
+        "persistence_min": 22.92,
+        "path_length_km": 16.958,
+        "speed_kt": 11.48,
+        "bearing_deg": 240.81,
+        "motion_vx_km_min": -0.30934,
+        "motion_vy_km_min": -0.17279,
+        "mean_step_distance_km": 5.653,
+        "max_step_distance_km": 8.285,
+        "mean_step_speed_kt": 26.39,
+        "max_step_speed_kt": 38.56,
+        "mean_turn_angle_deg": 85.43,
+        "max_turn_angle_deg": 146.21,
+        "start_x_km": 5.5991003628939895,
+        "start_y_km": 56.27802147566578,
+        "end_x_km": 3.667901820382849,
+        "end_y_km": 58.11409413523887,
+        "start_latitude": 33.67923319201094,
+        "start_longitude": -86.70977600654264,
+        "end_latitude": 33.68894793768666,
+        "end_longitude": -86.74444386636522,
+        "mean_confidence_score": 96.95,
+        "max_confidence_score": 100.0,
+        "mean_delta_v_kt": 112.79,
+        "max_delta_v_kt": 115.23,
+        "track_quality_score": 84.73,
+        "quality_persistence_score": 10.8,
+        "quality_duration_score": 10.03,
+        "quality_confidence_score": 24.0,
+        "quality_delta_v_score": 21.0,
+        "quality_speed_score": 9.73,
+        "quality_smoothness_score": 9.18,
+        "quality_penalty": 0.0,
+        "track_quality_label": "high",
+        "projectable": true,
+        "track_quality_rank": 6,
+        "ranked_track_name": "RANK_06_TRK_008",
+        "ml_score": 0.42,
+        "ml_rank": 6,
+        "ml_label": "medium",
+        "model_name": "RandomForestClassifier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.43111807597467,
+            33.39021009526117
+          ],
+          [
+            -87.45463394032204,
+            33.213782997960344
+          ]
+        ]
+      },
+      "properties": {
+        "event_id": "test_case_2",
+        "radar_site": "KBMX",
+        "date_folder": "2011-04-27",
+        "track_id": "TRK_001",
+        "detection_count": 2,
+        "start_time_utc": "2011-04-27T21:33:53+00:00",
+        "end_time_utc": "2011-04-27T21:43:03+00:00",
+        "duration_min": 9.17,
+        "persistence_min": 9.17,
+        "path_length_km": 18.915,
+        "speed_kt": 66.85,
+        "bearing_deg": 182.82,
+        "motion_vx_km_min": -0.10136,
+        "motion_vy_km_min": -2.06098,
+        "mean_step_distance_km": 18.915,
+        "max_step_distance_km": 18.915,
+        "mean_step_speed_kt": 66.85,
+        "max_step_speed_kt": 66.85,
+        "mean_turn_angle_deg": 0.0,
+        "max_turn_angle_deg": 0.0,
+        "start_x_km": -62.65144750875211,
+        "start_y_km": 24.175451656895248,
+        "end_x_km": -63.58058701663207,
+        "end_y_km": 5.283149036959046,
+        "start_latitude": 33.39021009526117,
+        "start_longitude": -87.43111807597467,
+        "end_latitude": 33.213782997960344,
+        "end_longitude": -87.45463394032204,
+        "mean_confidence_score": 100.0,
+        "max_confidence_score": 100.0,
+        "mean_delta_v_kt": 102.34,
+        "max_delta_v_kt": 104.87,
+        "track_quality_score": 65.57,
+        "quality_persistence_score": 3.6,
+        "quality_duration_score": 4.01,
+        "quality_confidence_score": 24.0,
+        "quality_delta_v_score": 19.65,
+        "quality_speed_score": 6.31,
+        "quality_smoothness_score": 8.0,
+        "quality_penalty": 0.0,
+        "track_quality_label": "high",
+        "projectable": true,
+        "track_quality_rank": 7,
+        "ranked_track_name": "RANK_07_TRK_001",
+        "ml_score": 0.23,
+        "ml_rank": 7,
+        "ml_label": "low",
+        "model_name": "RandomForestClassifier"
+      }
+    }
+  ]
+}

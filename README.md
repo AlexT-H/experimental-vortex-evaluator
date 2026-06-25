@@ -1,5 +1,7 @@
 # E.V.E. Experimental Vortex Evaluator
 
+**Live Deployment Link: https://experimental-vortex-evaluator-eve.vercel.app/**
+
 **E.V.E.** is a PostGIS-backed radar analysis application that ingests historical NEXRAD Level II radar data, detects storm-relative velocity couplets, links detections into ranked circulation tracks, generates short-range projected paths, applies machine-learning track scoring, and visualizes the results in an interactive React and Leaflet web map with Doppler radar scan overlays.
 
 The demo version is focused on one validated historical case:

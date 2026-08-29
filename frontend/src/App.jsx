@@ -4,6 +4,8 @@ import "leaflet/dist/leaflet.css";
 import "./App.css";
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:8000";
+const CARTO_API_KEY = import.meta.env.VITE_CARTO_API_KEY || "";
+
 const LOCKED_EVENT_ID = "test_case_2";
 
 const EMPTY_FC = { type: "FeatureCollection", features: [] };
@@ -318,11 +320,14 @@ export default function App() {
       preferCanvas: true,
     });
 
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+    L.tileLayer(
+      `https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png?key=${CARTO_API_KEY}`,
+    {
       subdomains: "abcd",
       maxZoom: 20,
       attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
-    }).addTo(map);
+    }
+    ).addTo(map);
 
     L.control.zoom({ position: "topright" }).addTo(map);
     L.control.scale({ position: "bottomleft" }).addTo(map);
